@@ -88,7 +88,7 @@
 <p>
     <🎯 /> I'm currently working for <a href="https://github.com/Anthm-FR">@Anthm</a>.
     <br>
-    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
+    <☕️‍ /> I do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
     <br>
     <🌱 /> I'm also playing with some topics like Rust, data-science, DDD and functional programming.
     <br>
@@ -101,13 +101,14 @@
 {
   "frontend": ["react", "gatsby|next", "svelte", "mui|tailwindcss"],
   "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb", "sql", "rust@alpha"],
+  "AI": ["GenerativeAI", "OpenAI", "image Processing", "LLM"],
   "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor"],
   "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp"],
   "data@alpha": ["python", "jupyter", "pandas", "numpy", "matplotlib"]
 }
 ```
 
-### ― See ya! 👋
+### ― See you! 👋
 
 <br>
 
