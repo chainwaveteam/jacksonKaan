@@ -4,7 +4,7 @@
  ✌<br>
   Hi there ― <br> 
   my name is Jackson Kaandorp, <br> 
-  passionate Web & BlockChain & GenerativeAI developer.
+  passionate Web | GenerativeAI | Blockchain developer.
 </h1>
 
 
