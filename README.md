@@ -6,7 +6,7 @@
   my name is Jackson Kaandorp, <br> 
   passionate Web | GenerativeAI | Blockchain developer.
 </h1>
-
+     
 
 <!--## 🛠 Technologies & tools-->
 <!--
