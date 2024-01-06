@@ -3,8 +3,8 @@
 <h1>
  ✌<br>
   Hi there ― <br> 
-  my name is Julien, <br> 
-  passionate developer.
+  my name is Jackson Kaandorp, <br> 
+  passionate Web & BlockChain & GenerativeAI developer.
 </h1>
 
 
