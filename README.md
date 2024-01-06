@@ -86,7 +86,7 @@
 ### Some words about me
 
 <p>
-    <🎯 /> I'm currently working for <a href="https://github.com/Anthm-FR">@Anthm</a>.
+    <🎯 /> I'm currently working for <a href="https://github.com/Anthm-FR">@Hive Social</a>.
     <br>
     <☕️‍ /> I do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
     <br>
