@@ -3,8 +3,6 @@
 <h1>
  ✌<br>
   Hi there ― <br> 
-  my name is Jackson Kaandorp, <br> 
-  passionate Web | GenerativeAI | Blockchain developer.
 </h1>
      
 
@@ -86,7 +84,6 @@
 ### Some words about me
 
 <p>
-    <🎯 /> I'm currently working for <a href="https://github.com/Anthm-FR">@Hive Social</a>.
     <br>
     <☕️‍ /> I do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
     <br>
